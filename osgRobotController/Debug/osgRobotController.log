@@ -1,0 +1,3 @@
+﻿  osgRobotController.cpp
+C:\Users\mousa\source\repos\osgGraphics22\osgRobotController\osgRobotController.cpp(311): warning C4715: 'PickHandler::pick': not all control paths return a value
+  osgRobotController.vcxproj -> C:\Users\mousa\source\repos\osgGraphics22\bin\osgRobotController.exe

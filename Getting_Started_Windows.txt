@@ -1,0 +1,8 @@
+Quick Start Guide for Windows
+
+1) Install Visual Studio (2019 community edition suggested)
+https://visualstudio.microsoft.com/downloads/
+
+2) Open VisSim.sln in visual studio.
+
+3) Your build .exe will be placed in the /bin directory next to the .dlls
